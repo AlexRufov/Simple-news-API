@@ -1,4 +1,4 @@
-module MyNewsAPI
+module Simple-news-API
 
 go 1.18
 

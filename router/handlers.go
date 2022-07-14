@@ -1,7 +1,7 @@
 package router
 
 import (
-	"MyNewsAPI/news"
+	"Simple-news-API/news"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
